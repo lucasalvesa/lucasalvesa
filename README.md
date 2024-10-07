@@ -1,7 +1,7 @@
 ## 👋 Hi there
 
 I'm Lucas Antunes, a passionate software developer and tech enthusiast. I currently work as a Software Developer. </br>
-With more than 2 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
+With more than 3 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 
 ## Expertise
